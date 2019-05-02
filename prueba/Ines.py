@@ -1,6 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
-
+# Holi
 namefile = "EnergiaDistancia.txt"
 
 x = [0,1,2,3,4,5]
